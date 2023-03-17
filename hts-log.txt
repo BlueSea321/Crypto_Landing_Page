@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 10 Apr 2022 03:17:18 at https://demo.artureanec.com/html/cryptoland/demo_4/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.artureanec.com/html/cryptoland/demo_4/index.html -O1 "F:\bbb" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:17:44	Error: 	"Failed Dependency" (424) at link https://demo.artureanec.com/html/cryptoland/demo_4/path/to/image.jpg (from https://demo.artureanec.com/html/cryptoland/demo_4/index.html)
+03:17:48	Error: 	"Failed Dependency" (424) at link https://demo.artureanec.com/html/cryptoland/demo_4/css/owl.video.play.png (from https://demo.artureanec.com/html/cryptoland/demo_4/css/main.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 seconds : 93 links scanned, 90 files written (11370721 bytes overall) [10786269 bytes received at 359542 bytes/sec], 846882 bytes transferred using HTTP compression in 11 files, ratio 26%, 23.2 requests per connection
+(2 errors, 0 warnings, 0 messages)
